@@ -1,0 +1,96 @@
+ .toppanel{
+	width: 100%;
+	height 100px;
+	background-color: blue;
+ }
+ 
+ .createform{
+	 margin-left:45%;
+	 margin-top: 250px;
+ }
+ 
+ .pagecontent{
+	 
+	 background-image: url(img/background.png);
+ }
+ 
+ .chatform{
+	 margin-left:300px;
+	 border: 4px double black;
+	 width:50%;
+	 height:750px;
+	 background-color: white;
+ }
+ 
+ .chat{
+	 border: 2px double black;
+	
+	  height:600px;
+	  overflow: auto;
+ }
+ 
+ .users{
+	  border: 2px double black;
+	
+	  height:600px;
+	  overflow: auto;
+ }
+ 
+ .messege{
+	  border: 2px  black;
+ }
+ 
+ .blockmessege1{
+	
+	 width: 100%;
+	
+ }
+  .blockname{
+	 margin-left:350px;
+	 height:25px;
+	  width: 100%;
+	   color:green;
+ }
+
+ .block1{
+	 margin-left:350px;
+	 height:25px;
+	  width: 100%;
+	  color:green;
+	  
+ }
+ 
+ 
+.blockdate1{
+	 margin-left:350px;
+	 height:25px;
+	font-size: 15px;
+	 width: 100%;
+	
+ }
+ 
+ .blockname{
+	 margin-left:20px;
+	 height:25px;
+	  width: 100%;
+ }
+ 
+ .block{
+	 margin-left:20px;
+	 height:25px;
+	  width: 100%;
+ }
+ 
+ 
+.blockdate{
+	 margin-left:20px;
+	 height:25px;
+	font-size: 15px;
+	 width: 100%;
+ }
+ 
+ .online{
+	 height:25px;
+	 width:100%;
+ }
+ 
